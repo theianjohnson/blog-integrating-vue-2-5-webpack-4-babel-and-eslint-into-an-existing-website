@@ -1,0 +1,13 @@
+{
+  "presets": [
+    [
+      "env", {
+        "useBuiltIns": true
+      }
+    ],
+    "stage-3"
+  ],
+  "ignore": [
+    "node_modules"
+  ]
+}
